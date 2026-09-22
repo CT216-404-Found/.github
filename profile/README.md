@@ -1,3 +1,3 @@
-Software Engineering project group.
+Software Engineering group.
 
-W.I.P
+TODO: Make repository (I don't know what to name it)
